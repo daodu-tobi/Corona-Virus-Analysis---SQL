@@ -36,3 +36,27 @@ Analyzing a CORONA VIRUS dataset to derive meaningful insights and present findi
 
    Snapshot of dataset
 ![Dataset](https://github.com/daodu-tobi/Corona-Virus-Analysis---SQL/assets/145832039/4ac88b7b-393a-444d-9b57-9ddc2df7943f)
+
+- Data Cleaning and Manipulation
+
+  Creating a new date column using the data in the original date column to populate the new column and setting the data type to date.
+
+  Deleting the old date column
+  
+  Checking for null values in the data set
+
+- Analysis
+
+- Finding the start date and end date of corona virus pandemic
+
+  Screen shot of query output 
+
+  ![Start Date](https://github.com/daodu-tobi/Corona-Virus-Analysis---SQL/assets/145832039/02c5d126-ab96-4b91-84ee-80570f92179f)
+
+- Finding monthly average of confirmed cases, death cases and recovered cases
+
+![Monthly average](https://github.com/daodu-tobi/Corona-Virus-Analysis---SQL/assets/145832039/5f2a0957-a62c-46cf-8646-e85c7d7bee0b)
+
+- Top 5 countries with highest cases
+
+![Top 5 countries](https://github.com/daodu-tobi/Corona-Virus-Analysis---SQL/assets/145832039/9d347c85-a6c6-454c-b784-9fe9240a0363)
