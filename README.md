@@ -60,3 +60,9 @@ Analyzing a CORONA VIRUS dataset to derive meaningful insights and present findi
 - Top 5 countries with highest cases
 
 ![Top 5 countries](https://github.com/daodu-tobi/Corona-Virus-Analysis---SQL/assets/145832039/9d347c85-a6c6-454c-b784-9fe9240a0363)
+
+- Checking how corona virus spread out with respect to recovered case (Eg.: total confirmed cases, their average, variance & STDEV )
+	 
+![Recovered](https://github.com/daodu-tobi/Corona-Virus-Analysis---SQL/assets/145832039/f693d68f-82d6-4e98-a06a-60bc118d3e55)
+
+
